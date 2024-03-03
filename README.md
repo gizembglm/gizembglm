@@ -7,7 +7,7 @@
 
 I'm a computer science student with a great interest. 
 I'm willing to improve myself in different disciplines by searching and studying. 
-Also I like being a part of a team produces technological innovations with creativity and discipline.
+I like being a part of a team produces technological innovations with creativity and discipline.
 
 # 💻 Languages-Tools: 
 
